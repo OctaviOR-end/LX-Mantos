@@ -1,0 +1,25 @@
+# Dependências e caches locais
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.cache/
+# Credenciais e configuração privada
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+cookies*.txt
+cookies*.json
+credentials*.json
+# Arquivos transitórios
+.sync.lock
+.tmp-*
+.site-*/
+*.tmp
+*.log
+.DS_Store

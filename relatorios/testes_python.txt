@@ -1,0 +1,19 @@
+test_all_photos_get_candidates (test_importador.ImportTests.test_all_photos_get_candidates) ... ok
+test_dimensions_decode_and_tiny_thumbnail (test_importador.ImportTests.test_dimensions_decode_and_tiny_thumbnail) ... ok
+test_gallery_attributes_exclude_avatar (test_importador.ImportTests.test_gallery_attributes_exclude_avatar) ... ok
+test_html_and_truncated_images_rejected (test_importador.ImportTests.test_html_and_truncated_images_rejected) ... ok
+test_input_merge_rejects_five_missing_links (test_importador.ImportTests.test_input_merge_rejects_five_missing_links) ... ok
+test_live_pipeline_contract_with_fixture_not_network (test_importador.ImportTests.test_live_pipeline_contract_with_fixture_not_network) ... ok
+test_portuguese_glossary (test_importador.ImportTests.test_portuguese_glossary) ... ok
+test_untrusted_urls_and_cross_supplier_rejected (test_importador.ImportTests.test_untrusted_urls_and_cross_supplier_rejected) ... ok
+test_category_pagination_dedup_memberships_and_robots (test_incremental.IncrementalTests.test_category_pagination_dedup_memberships_and_robots) ... ok
+test_manifest_real_decode_and_hash_approval_revoked_on_change (test_incremental.IncrementalTests.test_manifest_real_decode_and_hash_approval_revoked_on_change) ... ok
+test_manifest_rejects_traversal_duplicates_and_wrong_album (test_incremental.IncrementalTests.test_manifest_rejects_traversal_duplicates_and_wrong_album) ... ok
+test_retains_unseen_products_and_failed_photos_and_edits (test_incremental.IncrementalTests.test_retains_unseen_products_and_failed_photos_and_edits) ... ok
+test_site_requires_real_config_and_reviewed_photos (test_incremental.IncrementalTests.test_site_requires_real_config_and_reviewed_photos) ... ok
+test_largest_local_variant_and_production_page (test_publicacao.PublicationTests.test_largest_local_variant_and_production_page) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.069s
+
+OK

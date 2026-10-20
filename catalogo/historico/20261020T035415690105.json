@@ -1,0 +1,861 @@
+{
+  "executado_em": "2026-10-20T03:54:14.964311+00:00",
+  "rede": [
+    {
+      "url": "https://minkang.x.yupoo.com/robots.txt",
+      "estado": "bloqueio_proxy",
+      "erro": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "arquivos": [],
+  "diagnostico_csv": {
+    "arquivos": [
+      {
+        "arquivo": "LX_Mantos_imagens_grandes_PARA_TESTE.csv",
+        "linhas": 30,
+        "colunas": [
+          "nome_original",
+          "link_album_yupoo",
+          "imagem_capa",
+          "imagem_capa_grande_teste",
+          "imagens_album",
+          "imagens_album_grandes_teste",
+          "quantidade_fotos",
+          "tamanhos_consulta",
+          "disponibilidade"
+        ],
+        "sem_album": 0,
+        "html_no_titulo": 0,
+        "variantes_grandes_parciais": 29,
+        "duplicatas_de_fotos": 29,
+        "conflitos": []
+      },
+      {
+        "arquivo": "LX_Mantos_teste_importacao_30_produtos.csv",
+        "linhas": 30,
+        "colunas": [
+          "nome_original",
+          "link_album_yupoo",
+          "imagem_capa",
+          "imagens_album",
+          "quantidade_fotos",
+          "tamanhos_consulta",
+          "disponibilidade"
+        ],
+        "sem_album": 0,
+        "html_no_titulo": 0,
+        "variantes_grandes_parciais": 0,
+        "duplicatas_de_fotos": 29,
+        "conflitos": []
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linhas": 35,
+        "colunas": [
+          "web_scraper_order",
+          "web_scraper_start_url",
+          "title",
+          "photo",
+          "image",
+          "item_page_title",
+          "item_page_link",
+          "image_0"
+        ],
+        "sem_album": 5,
+        "html_no_titulo": 30,
+        "variantes_grandes_parciais": 0,
+        "duplicatas_de_fotos": 29,
+        "conflitos": []
+      }
+    ],
+    "rejeitados": [
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 2,
+        "nome": "Spain 2026 Home Women's Jersey S-XXL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 3,
+        "nome": "Roma 26/27 EQT White Player Version Retro Jersey S-3XL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 4,
+        "nome": "Real Oviedo 89/90 Home Retro Jersey S-XXL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 5,
+        "nome": "Santos 25/26 Home Shorts S-XXL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 6,
+        "nome": "Argentina 26/27 Special Edition Jersey S-XXL",
+        "motivo": "Link do álbum ausente"
+      }
+    ],
+    "fotos_compartilhadas_entre_albuns": {}
+  },
+  "modo": "online",
+  "auditoria_online": {
+    "robots": {
+      "estado": "nao_tentado_bloqueio_previo"
+    },
+    "albuns": [
+      {
+        "album_id": "257728051",
+        "url": "https://minkang.x.yupoo.com/albums/257728051",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "257639936",
+        "url": "https://minkang.x.yupoo.com/albums/257639936",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258147120",
+        "url": "https://minkang.x.yupoo.com/albums/258147120",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258444919",
+        "url": "https://minkang.x.yupoo.com/albums/258444919",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258445021",
+        "url": "https://minkang.x.yupoo.com/albums/258445021",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258445544",
+        "url": "https://minkang.x.yupoo.com/albums/258445544",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258445592",
+        "url": "https://minkang.x.yupoo.com/albums/258445592",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258581136",
+        "url": "https://minkang.x.yupoo.com/albums/258581136",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258581185",
+        "url": "https://minkang.x.yupoo.com/albums/258581185",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      },
+      {
+        "album_id": "258581257",
+        "url": "https://minkang.x.yupoo.com/albums/258581257",
+        "titulo": "",
+        "atributos": {},
+        "fotos_observadas": 0,
+        "estado": "nao_consultado_robots_indisponivel_ou_negado"
+      }
+    ],
+    "imagens": [
+      {
+        "album_id": "257728051",
+        "foto_id": "/minkang/8b6aebfa50",
+        "url": "https://photo.yupoo.com/minkang/8b6aebfa50/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "bloqueio_proxy",
+        "erro": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      },
+      {
+        "album_id": "257728051",
+        "foto_id": "/minkang/8b6aebfa50",
+        "url": "https://photo.yupoo.com/minkang/8b6aebfa50/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257728051",
+        "foto_id": "/minkang/8b6aebfa50",
+        "url": "https://photo.yupoo.com/minkang/8b6aebfa50/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257728051",
+        "foto_id": "/minkang/dc23a7b929",
+        "url": "https://photo.yupoo.com/minkang/dc23a7b929/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257728051",
+        "foto_id": "/minkang/dc23a7b929",
+        "url": "https://photo.yupoo.com/minkang/dc23a7b929/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257728051",
+        "foto_id": "/minkang/dc23a7b929",
+        "url": "https://photo.yupoo.com/minkang/dc23a7b929/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257639936",
+        "foto_id": "/minkang/10a5cede91",
+        "url": "https://photo.yupoo.com/minkang/10a5cede91/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257639936",
+        "foto_id": "/minkang/10a5cede91",
+        "url": "https://photo.yupoo.com/minkang/10a5cede91/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257639936",
+        "foto_id": "/minkang/10a5cede91",
+        "url": "https://photo.yupoo.com/minkang/10a5cede91/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257639936",
+        "foto_id": "/minkang/cbf83ce655",
+        "url": "https://photo.yupoo.com/minkang/cbf83ce655/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257639936",
+        "foto_id": "/minkang/cbf83ce655",
+        "url": "https://photo.yupoo.com/minkang/cbf83ce655/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "257639936",
+        "foto_id": "/minkang/cbf83ce655",
+        "url": "https://photo.yupoo.com/minkang/cbf83ce655/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258147120",
+        "foto_id": "/minkang/2dc1bfb875",
+        "url": "https://photo.yupoo.com/minkang/2dc1bfb875/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258147120",
+        "foto_id": "/minkang/2dc1bfb875",
+        "url": "https://photo.yupoo.com/minkang/2dc1bfb875/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258147120",
+        "foto_id": "/minkang/2dc1bfb875",
+        "url": "https://photo.yupoo.com/minkang/2dc1bfb875/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258147120",
+        "foto_id": "/minkang/447847db9c",
+        "url": "https://photo.yupoo.com/minkang/447847db9c/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258147120",
+        "foto_id": "/minkang/447847db9c",
+        "url": "https://photo.yupoo.com/minkang/447847db9c/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258147120",
+        "foto_id": "/minkang/447847db9c",
+        "url": "https://photo.yupoo.com/minkang/447847db9c/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/711089f537",
+        "url": "https://photo.yupoo.com/minkang/711089f537/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/711089f537",
+        "url": "https://photo.yupoo.com/minkang/711089f537/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/711089f537",
+        "url": "https://photo.yupoo.com/minkang/711089f537/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/197d45fd50",
+        "url": "https://photo.yupoo.com/minkang/197d45fd50/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/197d45fd50",
+        "url": "https://photo.yupoo.com/minkang/197d45fd50/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/197d45fd50",
+        "url": "https://photo.yupoo.com/minkang/197d45fd50/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/a3ece2587d",
+        "url": "https://photo.yupoo.com/minkang/a3ece2587d/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/a3ece2587d",
+        "url": "https://photo.yupoo.com/minkang/a3ece2587d/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/a3ece2587d",
+        "url": "https://photo.yupoo.com/minkang/a3ece2587d/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/477e0675ae",
+        "url": "https://photo.yupoo.com/minkang/477e0675ae/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/477e0675ae",
+        "url": "https://photo.yupoo.com/minkang/477e0675ae/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258444919",
+        "foto_id": "/minkang/477e0675ae",
+        "url": "https://photo.yupoo.com/minkang/477e0675ae/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445021",
+        "foto_id": "/minkang/d7d784de55",
+        "url": "https://photo.yupoo.com/minkang/d7d784de55/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445021",
+        "foto_id": "/minkang/d7d784de55",
+        "url": "https://photo.yupoo.com/minkang/d7d784de55/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445021",
+        "foto_id": "/minkang/d7d784de55",
+        "url": "https://photo.yupoo.com/minkang/d7d784de55/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445021",
+        "foto_id": "/minkang/ee8505e139",
+        "url": "https://photo.yupoo.com/minkang/ee8505e139/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445021",
+        "foto_id": "/minkang/ee8505e139",
+        "url": "https://photo.yupoo.com/minkang/ee8505e139/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445021",
+        "foto_id": "/minkang/ee8505e139",
+        "url": "https://photo.yupoo.com/minkang/ee8505e139/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445544",
+        "foto_id": "/minkang/ee871d6cda",
+        "url": "https://photo.yupoo.com/minkang/ee871d6cda/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445544",
+        "foto_id": "/minkang/ee871d6cda",
+        "url": "https://photo.yupoo.com/minkang/ee871d6cda/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445544",
+        "foto_id": "/minkang/ee871d6cda",
+        "url": "https://photo.yupoo.com/minkang/ee871d6cda/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445544",
+        "foto_id": "/minkang/52403a3f5e",
+        "url": "https://photo.yupoo.com/minkang/52403a3f5e/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445544",
+        "foto_id": "/minkang/52403a3f5e",
+        "url": "https://photo.yupoo.com/minkang/52403a3f5e/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445544",
+        "foto_id": "/minkang/52403a3f5e",
+        "url": "https://photo.yupoo.com/minkang/52403a3f5e/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445592",
+        "foto_id": "/minkang/44b67b01c8",
+        "url": "https://photo.yupoo.com/minkang/44b67b01c8/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445592",
+        "foto_id": "/minkang/44b67b01c8",
+        "url": "https://photo.yupoo.com/minkang/44b67b01c8/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258445592",
+        "foto_id": "/minkang/44b67b01c8",
+        "url": "https://photo.yupoo.com/minkang/44b67b01c8/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581136",
+        "foto_id": "/minkang/1a4b265c2a",
+        "url": "https://photo.yupoo.com/minkang/1a4b265c2a/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581136",
+        "foto_id": "/minkang/1a4b265c2a",
+        "url": "https://photo.yupoo.com/minkang/1a4b265c2a/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581136",
+        "foto_id": "/minkang/1a4b265c2a",
+        "url": "https://photo.yupoo.com/minkang/1a4b265c2a/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581136",
+        "foto_id": "/minkang/01ae8345d1",
+        "url": "https://photo.yupoo.com/minkang/01ae8345d1/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581136",
+        "foto_id": "/minkang/01ae8345d1",
+        "url": "https://photo.yupoo.com/minkang/01ae8345d1/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581136",
+        "foto_id": "/minkang/01ae8345d1",
+        "url": "https://photo.yupoo.com/minkang/01ae8345d1/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581185",
+        "foto_id": "/minkang/2ec430524e",
+        "url": "https://photo.yupoo.com/minkang/2ec430524e/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581185",
+        "foto_id": "/minkang/2ec430524e",
+        "url": "https://photo.yupoo.com/minkang/2ec430524e/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581185",
+        "foto_id": "/minkang/2ec430524e",
+        "url": "https://photo.yupoo.com/minkang/2ec430524e/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581185",
+        "foto_id": "/minkang/4df9ca9343",
+        "url": "https://photo.yupoo.com/minkang/4df9ca9343/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581185",
+        "foto_id": "/minkang/4df9ca9343",
+        "url": "https://photo.yupoo.com/minkang/4df9ca9343/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581185",
+        "foto_id": "/minkang/4df9ca9343",
+        "url": "https://photo.yupoo.com/minkang/4df9ca9343/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581257",
+        "foto_id": "/minkang/1ecbad9002",
+        "url": "https://photo.yupoo.com/minkang/1ecbad9002/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581257",
+        "foto_id": "/minkang/1ecbad9002",
+        "url": "https://photo.yupoo.com/minkang/1ecbad9002/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581257",
+        "foto_id": "/minkang/1ecbad9002",
+        "url": "https://photo.yupoo.com/minkang/1ecbad9002/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581257",
+        "foto_id": "/minkang/7939d36115",
+        "url": "https://photo.yupoo.com/minkang/7939d36115/small.jpg",
+        "origem_variante": "observada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581257",
+        "foto_id": "/minkang/7939d36115",
+        "url": "https://photo.yupoo.com/minkang/7939d36115/medium.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      },
+      {
+        "album_id": "258581257",
+        "foto_id": "/minkang/7939d36115",
+        "url": "https://photo.yupoo.com/minkang/7939d36115/big.jpg",
+        "origem_variante": "hipotese_nao_documentada",
+        "associacao_observada": false,
+        "estado": "nao_tentado_bloqueio_previo"
+      }
+    ],
+    "contagem_estados": {
+      "bloqueio_proxy": 1,
+      "nao_tentado_bloqueio_previo": 62
+    }
+  },
+  "integridade": [],
+  "alteracoes": [
+    {
+      "album_id": "257728051",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257639936",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258147120",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258444919",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258445021",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258445544",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258445592",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581136",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581185",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581257",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581415",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581608",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581220",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581362",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581502",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581567",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581466",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258582504",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258582552",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258583744",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258583797",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258664430",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258676544",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257421259",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257422074",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257538148",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257540484",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257636263",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257636291",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257636400",
+      "dados": "inalterado",
+      "imagens_alteradas": false
+    }
+  ],
+  "produtos_preservados_sem_atualizacao": [],
+  "total": 30,
+  "com_imagens_utilizaveis": 0,
+  "publicaveis": 0
+}

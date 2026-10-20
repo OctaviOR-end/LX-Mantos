@@ -1,0 +1,17 @@
+{
+  "resultado": "passou",
+  "dados": "30 produtos reais dos CSVs; nenhuma fotografia real disponível",
+  "checks": [
+    "HTTP 200",
+    "12 itens por página",
+    "paginação",
+    "filtro Infantil 5 itens",
+    "busca",
+    "rota própria do produto",
+    "4 tamanhos",
+    "mensagem WhatsApp com número informado, nome, ID e tamanho",
+    "estado de fotografia pendente",
+    "sem erros JS"
+  ],
+  "mensagem_enviada": false
+}

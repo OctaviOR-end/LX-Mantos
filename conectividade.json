@@ -1,0 +1,27 @@
+{
+  "proxy_configurado": true,
+  "resultados": [
+    {
+      "url": "https://minkang.x.yupoo.com/categories/712891",
+      "erro": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "classe": "URLError"
+    },
+    {
+      "url": "https://minkang.x.yupoo.com/robots.txt",
+      "erro": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "classe": "URLError"
+    },
+    {
+      "url": "https://photo.yupoo.com/minkang/dc23a7b929/small.jpg",
+      "erro": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "classe": "URLError"
+    },
+    {
+      "url": "https://registry.npmjs.org/bun/latest",
+      "status": 200,
+      "tipo": "application/json",
+      "amostra_bytes": 256
+    }
+  ],
+  "diagnostico": "CONNECT HTTPS recusado pelo proxy antes de contato com origem; controle npm respondeu 200; restrição de egress para os domínios Yupoo, causa administrativa não exposta pelo proxy."
+}

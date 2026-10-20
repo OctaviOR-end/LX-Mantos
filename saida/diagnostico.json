@@ -1,0 +1,94 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "LX_Mantos_imagens_grandes_PARA_TESTE.csv",
+      "linhas": 30,
+      "colunas": [
+        "nome_original",
+        "link_album_yupoo",
+        "imagem_capa",
+        "imagem_capa_grande_teste",
+        "imagens_album",
+        "imagens_album_grandes_teste",
+        "quantidade_fotos",
+        "tamanhos_consulta",
+        "disponibilidade"
+      ],
+      "sem_album": 0,
+      "html_no_titulo": 0,
+      "variantes_grandes_parciais": 29,
+      "duplicatas_de_fotos": 29,
+      "conflitos": []
+    },
+    {
+      "arquivo": "LX_Mantos_teste_importacao_30_produtos.csv",
+      "linhas": 30,
+      "colunas": [
+        "nome_original",
+        "link_album_yupoo",
+        "imagem_capa",
+        "imagens_album",
+        "quantidade_fotos",
+        "tamanhos_consulta",
+        "disponibilidade"
+      ],
+      "sem_album": 0,
+      "html_no_titulo": 0,
+      "variantes_grandes_parciais": 0,
+      "duplicatas_de_fotos": 29,
+      "conflitos": []
+    },
+    {
+      "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+      "linhas": 35,
+      "colunas": [
+        "web_scraper_order",
+        "web_scraper_start_url",
+        "title",
+        "photo",
+        "image",
+        "item_page_title",
+        "item_page_link",
+        "image_0"
+      ],
+      "sem_album": 5,
+      "html_no_titulo": 30,
+      "variantes_grandes_parciais": 0,
+      "duplicatas_de_fotos": 29,
+      "conflitos": []
+    }
+  ],
+  "rejeitados": [
+    {
+      "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+      "linha": 2,
+      "nome": "Spain 2026 Home Women's Jersey S-XXL",
+      "motivo": "Link do álbum ausente"
+    },
+    {
+      "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+      "linha": 3,
+      "nome": "Roma 26/27 EQT White Player Version Retro Jersey S-3XL",
+      "motivo": "Link do álbum ausente"
+    },
+    {
+      "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+      "linha": 4,
+      "nome": "Real Oviedo 89/90 Home Retro Jersey S-XXL",
+      "motivo": "Link do álbum ausente"
+    },
+    {
+      "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+      "linha": 5,
+      "nome": "Santos 25/26 Home Shorts S-XXL",
+      "motivo": "Link do álbum ausente"
+    },
+    {
+      "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+      "linha": 6,
+      "nome": "Argentina 26/27 Special Edition Jersey S-XXL",
+      "motivo": "Link do álbum ausente"
+    }
+  ],
+  "fotos_compartilhadas_entre_albuns": {}
+}

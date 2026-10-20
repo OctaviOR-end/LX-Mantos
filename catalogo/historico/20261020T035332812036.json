@@ -1,0 +1,257 @@
+{
+  "executado_em": "2026-10-20T03:53:32.800224+00:00",
+  "rede": [],
+  "arquivos": [],
+  "diagnostico_csv": {
+    "arquivos": [
+      {
+        "arquivo": "LX_Mantos_imagens_grandes_PARA_TESTE.csv",
+        "linhas": 30,
+        "colunas": [
+          "nome_original",
+          "link_album_yupoo",
+          "imagem_capa",
+          "imagem_capa_grande_teste",
+          "imagens_album",
+          "imagens_album_grandes_teste",
+          "quantidade_fotos",
+          "tamanhos_consulta",
+          "disponibilidade"
+        ],
+        "sem_album": 0,
+        "html_no_titulo": 0,
+        "variantes_grandes_parciais": 29,
+        "duplicatas_de_fotos": 29,
+        "conflitos": []
+      },
+      {
+        "arquivo": "LX_Mantos_teste_importacao_30_produtos.csv",
+        "linhas": 30,
+        "colunas": [
+          "nome_original",
+          "link_album_yupoo",
+          "imagem_capa",
+          "imagens_album",
+          "quantidade_fotos",
+          "tamanhos_consulta",
+          "disponibilidade"
+        ],
+        "sem_album": 0,
+        "html_no_titulo": 0,
+        "variantes_grandes_parciais": 0,
+        "duplicatas_de_fotos": 29,
+        "conflitos": []
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linhas": 35,
+        "colunas": [
+          "web_scraper_order",
+          "web_scraper_start_url",
+          "title",
+          "photo",
+          "image",
+          "item_page_title",
+          "item_page_link",
+          "image_0"
+        ],
+        "sem_album": 5,
+        "html_no_titulo": 30,
+        "variantes_grandes_parciais": 0,
+        "duplicatas_de_fotos": 29,
+        "conflitos": []
+      }
+    ],
+    "rejeitados": [
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 2,
+        "nome": "Spain 2026 Home Women's Jersey S-XXL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 3,
+        "nome": "Roma 26/27 EQT White Player Version Retro Jersey S-3XL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 4,
+        "nome": "Real Oviedo 89/90 Home Retro Jersey S-XXL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 5,
+        "nome": "Santos 25/26 Home Shorts S-XXL",
+        "motivo": "Link do álbum ausente"
+      },
+      {
+        "arquivo": "minkang-x-yupoo-com-2026-10-20.csv",
+        "linha": 6,
+        "nome": "Argentina 26/27 Special Edition Jersey S-XXL",
+        "motivo": "Link do álbum ausente"
+      }
+    ],
+    "fotos_compartilhadas_entre_albuns": {}
+  },
+  "modo": "arquivos",
+  "integridade": [],
+  "alteracoes": [
+    {
+      "album_id": "257728051",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257639936",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258147120",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258444919",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258445021",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258445544",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258445592",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581136",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581185",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581257",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581415",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581608",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581220",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581362",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581502",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581567",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258581466",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258582504",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258582552",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258583744",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258583797",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258664430",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "258676544",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257421259",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257422074",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257538148",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257540484",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257636263",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257636291",
+      "dados": "novo",
+      "imagens_alteradas": false
+    },
+    {
+      "album_id": "257636400",
+      "dados": "novo",
+      "imagens_alteradas": false
+    }
+  ],
+  "produtos_preservados_sem_atualizacao": [],
+  "total": 30,
+  "com_imagens_utilizaveis": 0,
+  "publicaveis": 0
+}
